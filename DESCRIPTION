@@ -1,0 +1,16 @@
+Package: StatComp20054
+Type: Package
+Title: Blast double sequence alignment
+Version: 1.0
+Date: 2020-12-22
+Author: Xin Liu
+Maintainer: Xin Liu <lxliuxinh@mail.ustc.edu.cn>
+Description: Use the R language package circlize and RIdeogram to visualize the blast double sequence alignment results
+License: GPL 
+Imports: knitr, rmarkdown, MASS, bootstrap, boot, DAAG, RANN, Ball, Rcpp, microbenchmark,RIdeogram,magrittr,dplyr,rsvg,circlize,RColorBrewer,ComplexHeatmap
+LinkingTo: Rcpp
+RoxygenNote: 7.1.1
+Encoding: UTF-8
+VignetteBuilder: knitr
+URL: http://github.com/lxinwk/StatComp20054
+BugReports: https://github.com/lxinwk/StatComp20054/issues
